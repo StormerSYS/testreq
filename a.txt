@@ -1,0 +1,70 @@
+{
+  "accounts": [
+    {
+      "id": 13400,
+      "username": "Teodseaghu",
+      "password": "N9U6tzeEQ9jd2FNns7tM",
+      "skins": [
+        {
+          "type": "EPIC",
+          "name": "Warring Kingdoms Garen"
+        },
+        {
+          "type": "DEFAULT",
+          "name": "Old Saint Zilean"
+        },
+        {
+          "type": "DEFAULT",
+          "name": "Debonair Galio"
+        },
+        {
+          "type": "DEFAULT",
+          "name": "Commando Jarvan IV"
+        },
+        {
+          "type": "DEFAULT",
+          "name": "Bewitching Nidalee"
+        }
+      ],
+      "skins_raw": "EPIC Warring Kingdoms Garen, DEFAULT Old Saint Zilean, DEFAULT Debonair Galio, DEFAULT Commando Jarvan IV, DEFAULT Bewitching Nidalee\n",
+      "blue_essence": "48630",
+      "price": 6.5,
+      "reference": "conta-com-skin-especifica-65422"
+    },
+    {
+      "id": 13116,
+      "username": "Rannardaley",
+      "password": "5gUXJehMM6YruSRZeW4C",
+      "skins": [
+        {
+          "type": "EPIC",
+          "name": "True Damage Senna"
+        },
+        {
+          "type": "EPIC",
+          "name": "Taric Luminshield"
+        },
+        {
+          "type": "EPIC",
+          "name": "Odyssey Malphite"
+        },
+        {
+          "type": "EPIC",
+          "name": "Nightbringer Vladimir"
+        },
+        {
+          "type": "DEFAULT",
+          "name": "Commando Galio"
+        },
+        {
+          "type": "DEFAULT",
+          "name": "Ruthless Pantheon"
+        }
+      ],
+      "skins_raw": "EPIC True Damage Senna, EPIC Taric Luminshield, EPIC Odyssey Malphite, EPIC Nightbringer Vladimir, DEFAULT Commando Galio, DEFAULT Ruthless Pantheon\n",
+      "blue_essence": "47865",
+      "price": 6.5,
+      "reference": "conta-com-skin-especifica-65422"
+    }
+  ]
+}
